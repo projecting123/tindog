@@ -1,0 +1,29 @@
+#title {
+  background: linear-gradient(300deg, #5cb8d7, #cb6cce, #72c8a0);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.py-5{
+  padding-bottom: 0rem !important;
+}
+
+/* #features{
+  height: 100vh;
+} */
+
+.bg-gradient{
+  background-color: #fff !important;
+}
+
+.carousel-item {
+  height: 400px;
+}
+
+.container-fluid{
+  background-color: rgba(0, 0, 0, 0.55);
+}
+
+#footer{
+  background: linear-gradient(300deg, #5cb8d7, #72c8a0);
+}
